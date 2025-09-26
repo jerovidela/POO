@@ -1,0 +1,3 @@
+/home/Videla14233/POO/TP2/Actividad1/build/CMakeFiles/tp2.dir
+/home/Videla14233/POO/TP2/Actividad1/build/CMakeFiles/edit_cache.dir
+/home/Videla14233/POO/TP2/Actividad1/build/CMakeFiles/rebuild_cache.dir

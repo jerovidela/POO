@@ -1,0 +1,11 @@
+mkdir build && cd build
+cmake .. && cmake --build .
+
+# leer como CSV
+./tp2 data -r -o c
+
+# leer como JSON
+./tp2 data -r -o j
+
+# leer como XML
+./tp2 data -r -o x
